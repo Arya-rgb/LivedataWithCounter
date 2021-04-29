@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyLiVeData</string>
+    <string name="hello_dicoding">Hello Alifya :)</string>
+    <string name="seconds">%d seconds elapsed</string>
+</resources>
